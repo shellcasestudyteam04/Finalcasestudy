@@ -33,7 +33,36 @@ Users can view and modify only the data and features relevant to their roles, en
     Users can tailor system settings to match their specific requirements and preferences.
 Customization options include setting energy thresholds, notification preferences, and system alerts.
 Notifications keep users informed about critical events or potential issues, allowing for timely responses.
-<h3>3. Screenshots </h3>
+<h3>4. Screenshots </h3>
+<h4>Profile Login</h4><br/>
+![Profile Login](https://github.com/shellcasestudyteam04/Finalcasestudy/blob/main/images/Screenshot%202023-09-15%20161242.png)
+<h4>Login for employee</h4><br/>
+![Login for employee](https://github.com/shellcasestudyteam04/Finalcasestudy/blob/main/images/Screenshot%202023-09-15%20161306.png)
+<h4>Employee dashboard</h4><br/>
+![employee dashboard](https://github.com/shellcasestudyteam04/Finalcasestudy/blob/main/images/Screenshot%202023-09-15%20161348.png)
+<h4>Fetch data by ID</h4><br/>
+![fetch data by id](https://github.com/shellcasestudyteam04/Finalcasestudy/blob/main/images/Screenshot%202023-09-15%20161428.png)
+<h4>Fetched data displayed as a table</h4><br/>
+![fetched data displayed as a table](https://github.com/shellcasestudyteam04/Finalcasestudy/blob/main/images/Screenshot%202023-09-15%20161441.png)
+<h4>Add a new contractor</h4><br/>
+![add a new contractor](https://github.com/shellcasestudyteam04/Finalcasestudy/blob/main/images/Screenshot%202023-09-15%20161542.png)
+<h4>Individual energy details</h4><br/>
+![individual energy details](https://github.com/shellcasestudyteam04/Finalcasestudy/blob/main/images/Screenshot%202023-09-15%20161621.png)
+<h4>Contractor dashboard</h4><br/>
+![contractor dashboard](https://github.com/shellcasestudyteam04/Finalcasestudy/blob/main/images/Screenshot%202023-09-15%20163223.png)
+<h4>Contractor performance</h4><br/>
+![contractor performance](https://github.com/shellcasestudyteam04/Finalcasestudy/blob/main/images/Screenshot%202023-09-15%20163303.png)
+<h4>About Us</h4><br/>
+![about us](https://github.com/shellcasestudyteam04/Finalcasestudy/blob/main/images/Screenshot%202023-09-15%20161700.png)
+<h4>Contact Us</h4><br/>
+![contact us](https://github.com/shellcasestudyteam04/Finalcasestudy/blob/main/images/Screenshot%202023-09-15%20161716.png)
+<h3>5. Configuration </h3>
+To configure the Renewable Energy Tracking and Management System, modify the configuration files located in the config directory. You may need to set up database connections, define alert thresholds, and specify the types of renewable energy sources you're using.
+
+
+
+
+
 
   
     
